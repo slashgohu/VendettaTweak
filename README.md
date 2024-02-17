@@ -4,6 +4,7 @@
 # VendettaTweak
 
 A rootful/rootless tweak to inject Vendetta into Discord.
+asdasd
 
 ## Installation
 
